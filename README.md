@@ -1,5 +1,4 @@
 # Problema8-afrus
-# Problema6-afrus
 <h2> Colocar un campo que reciba un número, luego dado ese número mostrarás esa cantidad en imágenes debajo del campo organizadas de forma acorde al tamaño de la pantalla. </h2>
 
 <p>Este problema fue realizado con React</p>
